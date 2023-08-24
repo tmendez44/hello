@@ -14,5 +14,9 @@ printf("Thelma Mendez!\n");
 
 printf("Computer Science\n");
 
+printf("Joe Foster\n");
+
+printf("Electrical Engineering\n");
+//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
   return 0;
 }
