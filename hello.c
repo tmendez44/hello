@@ -1,9 +1,11 @@
 /**
  * Author: Thelma Mendez
+ *         tmendez4@huskers.unl.edu
  * Date: 2023/08/22
  *
- * A simple hello world program in C
- *
+ * A simple hello world program:
+ * Prints out out author's name and major on two different lines.
+ * Collaborator will be able to add their own name and major.
  */
 #include <stdlib.h>
 #include <stdio.h>
