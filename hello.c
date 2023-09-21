@@ -4,7 +4,7 @@
  * Date: 2023/08/22
  *
  * A simple hello world program:
- * Prints out out author's name and major on two different lines.
+ * Prints out author's name and major on two different lines.
  * Collaborator will be able to add their own name and major.
  */
 #include <stdlib.h>
